@@ -13,11 +13,11 @@
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
-  "start_url": "https://www.whitestuff.com/",
+  "start_url": "/index.html",
   "lang": "",
   "screenshots": [],
   "short_name": "whitestuff",
   "description": "Retail",
-  "orientation": "undefined",
+  "orientation": "portrait",
   "generated": "undefined"
 }
