@@ -1,5 +1,5 @@
-let cacheVersion = 1;
-let currentCache = {
+var cacheVersion = 1;
+var currentCache = {
   offline: "offline-cache" + cacheVersion
 };
 const offlineUrl = "fallback.html";
