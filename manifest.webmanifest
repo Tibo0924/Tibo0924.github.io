@@ -1,0 +1,23 @@
+{
+  "name": "Whitestuff",
+  "icons": [
+    {
+      "src": "https://www.whitestuff.com/android-chrome-192x192.png?v=7knpXbERvl",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.whitestuff.com/android-chrome-512x512.png?v=7knpXbERvl",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "https://www.whitestuff.com/",
+  "lang": "",
+  "screenshots": [],
+  "short_name": "whitestuff",
+  "description": "Retail",
+  "orientation": "undefined",
+  "generated": "undefined"
+}
