@@ -2,11 +2,11 @@
   "name": "Whitestuff",
   "icons": [
     {
-      "src": "https://www.whitestuff.com/android-chrome-192x192.png?v=7knpXbERvl",
+      "src": "./whitestuff.jpeg",
       "sizes": "192x192"
     },
     {
-      "src": "https://www.whitestuff.com/android-chrome-512x512.png?v=7knpXbERvl",
+      "src": "./whitestuff.jpeg",
       "sizes": "512x512"
     }
   ],
