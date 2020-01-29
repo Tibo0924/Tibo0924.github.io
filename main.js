@@ -38,7 +38,7 @@ window.addEventListener("beforeinstallprompt", e => {
 });
 
 ("standalone" in window.navigator && !window.navigator.standalone) ||
-  !window.matchMedia("(display-mode: standalone)").matches();
+  !window.matchMedia("(display-mode: standalone)").matches;
 {
-  addToHomeScreen();
+  console.log('a2hs')
 }
