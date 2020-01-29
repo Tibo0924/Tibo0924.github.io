@@ -9,7 +9,7 @@ if ("serviceWorker" in navigator) {
 // Code to handle install prompt on desktop
 
 let deferredPrompt;
-const addBtn = document.querySelector(".btn");
+const addBtn = document.querySelector(".a2hs_btn");
 addBtn.style.display = "none";
 
 window.addEventListener("beforeinstallprompt", e => {
@@ -40,5 +40,5 @@ window.addEventListener("beforeinstallprompt", e => {
 ("standalone" in window.navigator && !window.navigator.standalone) ||
   !window.matchMedia("(display-mode: standalone)").matches;
 {
-  console.log('a2hs')
+  console.log("a2hs");
 }
