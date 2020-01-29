@@ -2,12 +2,8 @@
   "name": "Whitestuff",
   "icons": [
     {
-      "src": "./whitestuff.jpeg",
+      "src": "./whitestuff.png",
       "sizes": "192x192"
-    },
-    {
-      "src": "./whitestuff.jpeg",
-      "sizes": "512x512"
     }
   ],
   "theme_color": "#ffffff",
@@ -18,6 +14,5 @@
   "screenshots": [],
   "short_name": "whitestuff",
   "description": "Retail",
-  "orientation": "portrait-primary",
-  "generated": "undefined"
+  "orientation": "portrait-primary"
 }
